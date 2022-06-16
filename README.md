@@ -31,3 +31,8 @@ width="700"  border="10" /></div></a>
 ## Experiments
 <a href="https://youtu.be/sJgz39sZ1jo?t=588" target="_blank"><div align=center><img src="https://user-images.githubusercontent.com/36269534/172633045-2775c341-13db-40da-a556-91ccdeb0d6bc.jpg" 
 width="700"  border="10" /></div></a>
+
+## Acknowledge and apology
+This work is inspired by the previous works of [Prof.Lounis](https://scholar.google.fr/citations?user=LWGCtScAAAAJ&hl=en). Thanks again for his introduction of limit cycle. 
+And we are **so sorry** that, the whole work cannot be released immediately to avoid duplicate checks and data leakage. 
+
